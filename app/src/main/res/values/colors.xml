@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009883</color>
+    <color name="colorPrimaryDark">#009883</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+        <color name="white">#ffffffff</color>
+        <color name="darkwhite">#ffeeeeee</color>
+        <color name="transparent">#00ffffff</color>
+        <color name="semitransparent">#88000000</color>
+        <color name="orange">#ffff8800</color>
+        <color name="light_orange">#ffe27d18</color>
+        <color name="light_blue">#ff00a2e8</color>
+        <color name="black">#ff000000</color>
+        <color name="black2">#3C3F41</color>
+         <color name="black3">#3C463C</color>
+        <color name="menuButtonColor">#ffea8e44</color>
+
+</resources>

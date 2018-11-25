@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Arabic!</string>
+    <string name="action_settings">Settings</string>
+    <string name="salaam">السلام عليكم</string>
+    <string name="salaamEnglish">Assalamulaikum!</string>
+    <string name="clickToGetStarted">Tap here to start learning Arabic!</string>
+</resources>
